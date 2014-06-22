@@ -10,6 +10,10 @@ public class Run {
 		System.out.println("HelloWorldTest4");
 		//testdd
 		//jeszcze jedna zmiana
+		
 	}
+	
+	public void fun(){}
 
+	
 }
