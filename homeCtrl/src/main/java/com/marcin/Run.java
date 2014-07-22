@@ -17,3 +17,4 @@ public class Run {
 
 	//dupah
 }
+co by nie bbylo latwo
